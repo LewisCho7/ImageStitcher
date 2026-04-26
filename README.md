@@ -1,5 +1,5 @@
-<img width="3000" height="4000" alt="apt02" src="https://github.com/user-attachments/assets/582ccaea-ece5-488e-8a06-8f570faf0d17" /># ImageStitcher
-Stitching 3 images into planar panoramic view
+# ImageStitcher
+### Stitching 3 images into planar panoramic view
 
 - Used openCV findHomography() to find H matrix
 - Matrix multiplication used H13 = H12@H23
